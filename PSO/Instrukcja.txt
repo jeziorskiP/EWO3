@@ -1,0 +1,31 @@
+Program pobiera parametry z pliku "init1.txt"
+Wykonuje 30 uruchomieñ.
+Wyniki zapisywane s¹ w katalogu "test1"
+
+Plik init1.txt zawieraæ powinien 12 linii
+1) Waga intercji
+2) Wspó³czynnik C
+3) sg
+4) pm
+5) dolny zakres funkcji
+6) górny zakres funkcji
+7) nr funkcji (GDZIE 3 -> SPHERE, 4 -> Schwefel)
+8) liczba wymiarów
+9) Cel
+10) Liczba iteracji
+11) B³¹d
+12) Liczba cz¹stek
+
+Np.:
+0.728
+1.5
+7
+0.01
+-10
+10
+3
+20
+0
+1000
+0.0001
+20
